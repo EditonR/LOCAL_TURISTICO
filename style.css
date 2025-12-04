@@ -73,7 +73,7 @@ ul {
 }
 
 ul ::marker {
-    color:#333333;
+    color:#333333; /*Tentando resolver ainda.*/
     
 }
 
@@ -131,5 +131,10 @@ p {
     font-size: 16px;
     text-align: center;
     margin-top: 65px;
-     padding-bottom: 48px;
+    padding-bottom: 48px;
+     
+}
+
+footer img {
+  vertical-align: middle;
 }
