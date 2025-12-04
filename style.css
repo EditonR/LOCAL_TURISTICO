@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background: #F5F4F0;
+  border: #D9D9D9;
+}
+
+#container {
+  box-sizing: border-box;
+  margin: 88px auto 80px;
+  width: 1120px;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #1B1B1B;
+  margin-left: 10px;
+}
+
+h1, h2, h3 {
+  color: #1B1B1B;
+}
+
+p {
+  margin-bottom: 64px;
+  color: #333333;
+}
+
+.first {
+  width: 1120px;
+  height: 660px;
+  object-fit: cover;
+  border-radius: 28px;
+}
+
+.second {
+  width: 1120px;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 28px;
+}
+
+.headline {
+   font-size: 16px;
+    line-height: 22px;
+    font-weight: bold; /* A fonte fica em negrito */
+    color: #e1624f;
+    text-transform: uppercase; /* A fonte fica com todas as letras em maiúsculo */
+}
+
+ul {
+  list-style-type: disc;
+  margin-top: 3px;
+}
+
+ul ::marker {
+    color:#333333;
+    
+}
+
+.blue {
+  color: #0C51A7;
+  font-weight: bold;
+}
+
+.purple {
+    color: #591B98;
+    font-weight: bold;
+}
+.pink {
+    color: #E5245E;
+    font-weight: bold;
+}
+.orange {
+    color:#E95E10;
+    font-weight: bold;
+}
+
+p {
+    margin-bottom: 48px;
+    color: #333333;
+}
+
+.paragraph {
+    margin-bottom: 64px;
+}
+
+#aside {
+    text-align: center;
+}
+
+#description {
+    margin-bottom: 4px;
+    text-align: center;
+    font-style: italic;
+}
+
+#card {
+    font-weight: bold;
+    margin-top: -20px;
+}
+
+.divider {
+    width: 100%;
+    height: 1px;
+    background: #D9D9D9;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.last {
+    font-size: 16px;
+    text-align: center;
+    margin-top: 65px;
+     padding-bottom: 48px;
+}
