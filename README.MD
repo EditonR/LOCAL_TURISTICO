@@ -40,7 +40,7 @@ Neste desafio, você vai desenvolver uma Landing Page de turismo utilizando apen
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/design/dE6CDpBMU91u2Qey7HWN6W/LP-de-produto-(Community)?node-id=0-1&p=f&t=Yn8JiJ2BTBk8Mjat-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/pt-br/comunidade/file/1384542229391733447/local-turistico). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 📝 Licença
 
